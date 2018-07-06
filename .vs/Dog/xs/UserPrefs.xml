@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{AF581683-4597-471A-BA46-F6F06FC577FE}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Dog/Gender.cs">
     <Files>
-      <File FileName="Dog/Program.cs" Line="49" Column="17" />
-      <File FileName="Dog/Dog.cs" Line="1" Column="1" />
-      <File FileName="Dog/Gender.cs" Line="1" Column="1" />
+      <File FileName="Dog/Program.cs" Line="9" Column="65" />
+      <File FileName="Dog/Dog.cs" Line="28" Column="10" />
+      <File FileName="Dog/Gender.cs" Line="6" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

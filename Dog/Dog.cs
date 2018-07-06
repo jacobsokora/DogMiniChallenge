@@ -16,7 +16,7 @@ namespace Dog
             this.gender = gender;
         }
 
-        public void bark(int times)
+        public void Bark(int times)
         {
             for (int i = 0; i < times; i++)
             {
@@ -24,7 +24,7 @@ namespace Dog
             }
         }
 
-        public string getTag()
+        public string GetTag()
         {
             string tag = "If lost, call " + owner + ". ";
             if (gender == Gender.Male)

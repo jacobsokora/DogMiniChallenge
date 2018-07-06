@@ -7,12 +7,12 @@ namespace Dog
         static void Main(string[] args)
         {
             Dog puppy = new Dog("Orion", "Shawn", 1, Gender.Male);
-            puppy.bark(3);
-            Console.WriteLine(puppy.getTag());
+            puppy.Bark(3);
+            Console.WriteLine(puppy.GetTag());
 
             Dog myDog = new Dog("Lileu", "Dale", 4, Gender.Female);
-            myDog.bark(1);
-            Console.WriteLine(myDog.getTag());
+            myDog.Bark(1);
+            Console.WriteLine(myDog.GetTag());
         }
     }
 }
